@@ -1,0 +1,5 @@
+Nitish Dashora is an undergraduate student at UC Berkeley majoring in
+Electrical Engineering and Computer Science (EECS). His passions lie 
+in the intersection of Reinforcement Learning and Computer Vision 
+theory through innovative learning methods. He is currently an undergraduate 
+researcher at Berkeley AI Research (BAIR) under Prof. Sergey Levine.
